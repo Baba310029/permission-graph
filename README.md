@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 # PermissionGraph
 
 PermissionGraph is a role and permission management system designed for admin-controlled environments. It provides secure authentication, role-based access control, user lifecycle management, and a complete audit trail with undo capabilities.
