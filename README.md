@@ -35,3 +35,7 @@ PermissionGraph is a role and permission management system designed for admin-co
 - Backend: Node.js + Express
 - Database: PostgreSQL
 - Auth: JWT
+
+## 🎥 Demo Video
+👉 Click here to watch the full demo:  
+https://github.com/Baba310029/permission-graph/issues/1#issue-3866377935
